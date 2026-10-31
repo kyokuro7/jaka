@@ -1,0 +1,9 @@
+{
+  "name": "ilovetempmail-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
